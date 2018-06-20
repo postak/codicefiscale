@@ -6,8 +6,10 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "ejs": "*",
+    "ejs": "2.6.1",
     "express": "3.2.6",
-    "npm": "^5.7.1"
+    "npm": "^5.7.1",
+    "qs": "1.0.0",
+    "send": "^0.16.2"
   }
 }
